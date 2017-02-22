@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Wordgame</string>
+    <string name="action_settings">Exit</string>
+    <string name="welcome_message">Welcome to the wordgame!!
+
+                        You are given a word with 7 or more
+                        letters. From that word you need to
+                        make 7 indivial words. They have to be at least
+                        3 characters long.The 7 words are compared againts
+                        a dictonary to make sure they are correct and not made up.
+
+                        Enjoy!!</string>
+    <string name="welcome_screen">Wordgame</string>
+    <string name="start_sceen">Play the game</string>
+    <string name="activity_process">Processing input</string>
+
+
+
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+ </resources>
