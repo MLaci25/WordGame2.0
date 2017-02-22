@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="344dp"
+        android:ems="10"
+        android:id="@+id/wmessage"
+        android:text="@string/welcome_message"
+        android:paddingTop="50dp"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:gravity="fill_horizontal"
+        android:clickable="false"
+        tools:textSize="46px" />
+
+    <Button
+        android:text="Lets Play"
+        android:layout_width="208dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/button1"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>
